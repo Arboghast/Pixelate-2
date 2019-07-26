@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pixelate-2/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Pixelate-2/static/js/main.0bab18d0.chunk.js",
+    "main.js.map": "/Pixelate-2/static/js/main.0bab18d0.chunk.js.map",
+    "runtime~main.js": "/Pixelate-2/static/js/runtime~main.f0421391.js",
+    "runtime~main.js.map": "/Pixelate-2/static/js/runtime~main.f0421391.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Pixelate-2/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Pixelate-2/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Pixelate-2/index.html",
+    "precache-manifest.a2e3662f6f986c73d31bb3b682c08021.js": "/Pixelate-2/precache-manifest.a2e3662f6f986c73d31bb3b682c08021.js",
+    "service-worker.js": "/Pixelate-2/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Pixelate-2/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Pixelate-2/static/media/logo.5d5d9eef.svg"
+  }
+}
