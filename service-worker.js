@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Pixelate-2/precache-manifest.a2e3662f6f986c73d31bb3b682c08021.js"
+  "/Pixelate-2/precache-manifest.14ee3bf85e506102f8a112d3b5a98142.js"
 );
 
 self.addEventListener('message', (event) => {
