@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "782bc1c236ffe8aaa18349f64b3536b0",
+    "revision": "d4f06685e7a41fc304b25b85e35db7e3",
     "url": "/Pixelate-2/index.html"
   },
   {
-    "revision": "5aa0f8bc09b7bc77d703",
-    "url": "/Pixelate-2/static/css/main.6741dede.chunk.css"
+    "revision": "5e0bc6039e68ee6ca89d",
+    "url": "/Pixelate-2/static/css/main.4f1c789c.chunk.css"
   },
   {
     "revision": "9eee67cf782a38d35aeb",
     "url": "/Pixelate-2/static/js/2.d6a534e5.chunk.js"
   },
   {
-    "revision": "5aa0f8bc09b7bc77d703",
-    "url": "/Pixelate-2/static/js/main.6bdbeca7.chunk.js"
+    "revision": "5e0bc6039e68ee6ca89d",
+    "url": "/Pixelate-2/static/js/main.35a8e558.chunk.js"
   },
   {
     "revision": "077b17ddea6db2c3d016",

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Pixelate-2/static/css/main.6741dede.chunk.css",
-    "main.js": "/Pixelate-2/static/js/main.6bdbeca7.chunk.js",
-    "main.js.map": "/Pixelate-2/static/js/main.6bdbeca7.chunk.js.map",
+    "main.css": "/Pixelate-2/static/css/main.4f1c789c.chunk.css",
+    "main.js": "/Pixelate-2/static/js/main.35a8e558.chunk.js",
+    "main.js.map": "/Pixelate-2/static/js/main.35a8e558.chunk.js.map",
     "runtime~main.js": "/Pixelate-2/static/js/runtime~main.f0421391.js",
     "runtime~main.js.map": "/Pixelate-2/static/js/runtime~main.f0421391.js.map",
     "static/js/2.d6a534e5.chunk.js": "/Pixelate-2/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/Pixelate-2/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/Pixelate-2/index.html",
-    "precache-manifest.14ee3bf85e506102f8a112d3b5a98142.js": "/Pixelate-2/precache-manifest.14ee3bf85e506102f8a112d3b5a98142.js",
+    "precache-manifest.4d85c1baaeec147dbc8d403fc3b47ad4.js": "/Pixelate-2/precache-manifest.4d85c1baaeec147dbc8d403fc3b47ad4.js",
     "service-worker.js": "/Pixelate-2/service-worker.js",
-    "static/css/main.6741dede.chunk.css.map": "/Pixelate-2/static/css/main.6741dede.chunk.css.map",
+    "static/css/main.4f1c789c.chunk.css.map": "/Pixelate-2/static/css/main.4f1c789c.chunk.css.map",
     "static/media/Buttons.css": "/Pixelate-2/static/media/slkscre.f78c16be.ttf"
   }
 }
